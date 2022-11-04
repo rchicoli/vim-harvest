@@ -1,0 +1,46 @@
+htmlTag: '@Normal' # Function
+htmlEndTag: '@Normal' # Identifier
+htmlArg: '@Statement' # Type
+htmlTagName: '@Identifier' # htmlStatement
+htmlSpecialTagName: '' # Exception
+htmlValue: '@Normal' # String
+htmlH1: '@Constant' # Title
+htmlH2: '' # htmlH1
+htmlH3: '' # htmlH2
+htmlH4: '' # htmlH3
+htmlH5: '' # htmlH4
+htmlH6: '' # htmlH5
+htmlHead: '' # PreProc
+htmlTitle: '@Operator' # Title
+htmlBoldItalicUnderline: 'base0 base6 biu' # htmlBoldUnderlineItalic
+htmlBold: 'base0 base6 b' # htmlBoldUnderlineItalic
+htmlUnderlineBold: 'base0 base6 ub' # htmlBoldUnderline
+htmlUnderlineItalicBold: 'base0 base6 uib' # htmlBoldUnderlineItalic
+htmlUnderlineBoldItalic: 'base0 base6 ubi' # htmlBoldUnderlineItalic
+htmlItalic: 'base0 base6 i' # htmlUnderlineItalic
+htmlItalicUnderline: 'base0 base6 iu' # htmlUnderlineItalic
+htmlItalicBold: 'base0 base6 ib' # htmlBoldItalic
+htmlItalicBoldUnderline: 'base0 base6 bu' # htmlBoldUnderlineItalic
+htmlItalicUnderlineBold: 'base0 base6 ub' # htmlBoldUnderlineItalic
+htmlLink: '' # Underlined
+htmlLeadingSpace: '' # None
+htmlPreStmt: '' # PreProc
+htmlPreError: '' # Error
+htmlPreProc: '' # PreProc
+htmlPreAttr: '' # String
+htmlPreProcAttrName: '' # PreProc
+htmlPreProcAttrError: '' # Error
+htmlSpecial: '' # Special
+htmlSpecialChar: '' # Special
+htmlString: '' # String
+htmlStatement: '' # Statement
+htmlComment: '' # Comment
+htmlCommentPart: '' # Comment
+htmlCommentError: '' # htmlError
+htmlTagError: '' # htmlError
+htmlEvent: '' # javaScript
+htmlError: '' # Error
+javaScript: '' # Special
+javaScriptExpression: '@javascript' # javaScript
+htmlCssStyleComment: '' # Comment
+htmlCssDefinition: '' # Special

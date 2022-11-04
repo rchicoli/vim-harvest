@@ -1,0 +1,87 @@
+ColorColumn    : '- base7'
+Conceal        : 'green base1'
+Cursor         : 'base7 magenta'
+CursorIM       : 'base7 green'
+CursorColumn   : '- base5'
+CursorLine     : '- base5'
+CursorLineNr   : 'yellow base4'
+Directory      : 'light_blue -'
+DiffAdd        : 'base7 green'
+DiffAdded      : 'green base6'
+DiffChange     : 'base7 blue'
+DiffChanged    : 'blue base6'
+DiffRemoved    : 'red base6'
+DiffSubname    : 'base4'
+DiffDelete     : 'base7 red'
+DiffText       : 'base7 light_blue'
+ErrorMsg       : 'red base6'
+VertSplit      : 'base2 base4'
+Folded         : 'base7 blue'
+FoldColumn     : 'base5 base3'
+SignColumn     : '- base5'
+IncSearch      : '- - r'
+LineNr         : 'base2 base5'
+MatchParen     : 'base7 light_blue b'
+ModeMsg        : 'blue -'
+MoreMsg        : ''
+NonText        : 'base2 -'
+Normal         : 'base0 base6'
+PMenu          : 'base7 light_blue'
+PMenuSel       : 'base7 green b'
+PmenuSbar      : '- base2'
+PmenuThumb     : '- base4'
+Question       : 'green -'
+Search         : 'base7 light_blue b'
+SpecialKey     : 'base2 -'
+SpellBad       : 'base7 red'
+SpellLocal     : 'yellow -'
+SpellCap       : 'base7 orange'
+SpellRare      : 'base7 blue'
+StatusLine     : 'base5 base2'
+StatusLineNC   : 'base4 base2'
+TabLine        : 'base7 base2'
+TabLineFill    : '- base5'
+TabLineSel     : 'base7 green'
+Title          : 'yellow -'
+Visual         : '- base3'
+VisualNOS      : '- base3'
+WarningMsg     : 'bright_orange base6'
+WildMenu       : 'base7 light_blue'
+Comment        : 'base3 -'
+Constant       : 'bright_orange -'
+String         : 'yellow -' # Constant
+Character      : '@String' # Constant
+Boolean        : 'bright_orange -' # Constant
+Number         : 'bright_orange -' # Constant
+Float          : 'bright_orange -' # Constant
+Identifier     : 'blue -'
+Function       : '@Identifier' # Identifier
+Statement      : 'green -'
+Conditional    : '@Statement' # Statement
+Repeat         : '@Statement' # Statement
+Label          : '@Type' # Statement
+Operator       : 'red -' # Statement
+Keyword        : '@Statement' # Statement
+Exception      : '@Statement' # Statement
+PreProc        : 'red -'
+Include        : '@PreProc' # PreProc
+Define         : 'green - b' # PreProc
+Macro          : '@PreProc' # PreProc
+PreCondit      : '@PreProc' # PreProc
+Type           : 'bright_orange - '
+StorageClass   : '@Type' # Type
+Structure      : '@Define' # Type
+Typedef        : '@Define' # Type
+Special        : 'orange -'
+SpecialChar    : '@Special' # Special
+Tag            : '@Special' # Special
+Delimiter      : '@Normal' # Special
+SpecialComment : '@Special' # Special
+Debug          : '@Special' # Special
+Underlined     : '- - u'
+Ignore         : ''
+Error          : 'base0 red'
+Todo           : 'orange - b'
+
+
+

@@ -1,0 +1,20 @@
+name: 'harvest'
+version: '1.0.0'
+license: ''
+author: 'rchicoli'
+url: ''
+description: 'Harvest inspired colorscheme'
+colorschemes:
+  - name: 'harvest'
+    background: 'dark'
+    palette: 'harvest'
+airline:
+  - name: 'harvest'
+    palette: 'harvest'
+    style: 'regular'
+    description: 'Harvest Airline theme'
+lightline:
+  - name: 'harvest'
+    palette: 'harvest'
+    style: 'regular'
+    description: 'Harvest Lightline theme'
