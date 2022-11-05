@@ -54,7 +54,7 @@ hi htmlItalicUnderlineBold guifg=#f1f1f1 ctermfg=255 guibg=#1c1d21 ctermbg=234 g
 hi htmlUnderlineBold guifg=#f1f1f1 ctermfg=255 guibg=#1c1d21 ctermbg=234 gui=underline,bold cterm=underline,bold
 hi htmlUnderlineBoldItalic guifg=#f1f1f1 ctermfg=255 guibg=#1c1d21 ctermbg=234 gui=underline,bold,italic cterm=underline,bold,italic
 hi htmlUnderlineItalicBold guifg=#f1f1f1 ctermfg=255 guibg=#1c1d21 ctermbg=234 gui=underline,italic,bold cterm=underline,italic,bold
-hi Identifier guifg=#bb2969 ctermfg=74 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi Identifier guifg=#eb3d54 ctermfg=74 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi IncSearch guifg=NONE ctermfg=NONE guibg=NONE ctermbg=NONE gui=reverse cterm=reverse
 hi LineNr guifg=#848794 ctermfg=102 guibg=#2f3137 ctermbg=236 gui=NONE cterm=NONE
 hi MatchParen guifg=#000000 ctermfg=0 guibg=#6dc0df ctermbg=74 gui=bold cterm=bold
@@ -242,7 +242,6 @@ hi link pythonRun Comment
 hi link pythonStatement Statement
 hi link pythonString String
 hi link pythonTripleQuotes String
-hi link QuickFixLine CursorLine
 hi link QuickFixLine CursorLine
 hi link Repeat Statement
 hi link rubyInstanceVariable Type
