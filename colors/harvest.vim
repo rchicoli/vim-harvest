@@ -71,7 +71,7 @@ hi PreProc guifg=#eb3d54 ctermfg=167 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Question guifg=#78bd65 ctermfg=107 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Search guifg=#000000 ctermfg=0 guibg=#6dc0df ctermbg=74 gui=bold cterm=bold
 hi SignColumn guifg=NONE ctermfg=NONE guibg=#2f3137 ctermbg=236 gui=NONE cterm=NONE
-hi Special guifg=#655abc ctermfg=208 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi Special guifg=#664abc ctermfg=208 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi SpecialKey guifg=#848794 ctermfg=102 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi SpellBad guifg=#000000 ctermfg=0 guibg=#eb3d54 ctermbg=167 gui=NONE cterm=NONE
 hi SpellCap guifg=#000000 ctermfg=0 guibg=#ef7c2a ctermbg=208 gui=NONE cterm=NONE
