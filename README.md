@@ -32,8 +32,8 @@ let g:go_highlight_diagnostic_warnings = 1
 
 Go
 
-![go](https://user-images.githubusercontent.com/10183963/200137576-30e6cc19-6f06-4d02-a6af-71775fc021dc.png)
+![go1](https://user-images.githubusercontent.com/10183963/200191451-ed6ef905-a0a2-4a42-8e99-9adfd7af6081.png)
 
 Rust
 
-![rust](https://user-images.githubusercontent.com/10183963/200137589-c18dd850-649a-425d-ae8f-792571d440ac.png)
+![rust1](https://user-images.githubusercontent.com/10183963/200191461-6f5bd785-5b8f-4a59-9c2d-856d9dd80ff0.png)
